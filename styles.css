@@ -1,0 +1,54 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://th.bing.com/th/id/R.785c934295f7e3028b16ebc7a8b3574a?rik=p7NsMyZv0LcnPQ&pid=ImgRaw&r=0");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ff0000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 250px;
+}
+
+.Nexa-Kernel-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-info {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
